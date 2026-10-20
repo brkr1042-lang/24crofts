@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 24 Crofts - Cinema \u0026 Production Directory",
+  "description": "The premier cinema crafts talent matrimonial-style network for the 24 Crafts of Cinema. Verified profiles, trailer showcases, ID search, and authorized contact access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
